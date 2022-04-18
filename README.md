@@ -1,25 +1,3 @@
-# python-calculator
-Basic python calculator with output -> txt
-------------------------------------------
+![carbon](https://user-images.githubusercontent.com/103964666/163893267-8f180e93-b6ec-40bb-a63e-96812476b99a.png)
 
-Functionalities
----------------
-(+) Plus (+)
-(-) Minus (-)
-(/) Divide (/)
-(*) Multiplication (*)
-----------------------
-Output to Text File
-
-(For example)
-
-First number: 5
-Operator: -
-Second number: 4
-Calculated Output: 1.0
-
-What you will see in the text file:
-1.0
------------------------
-Will add more stuff later, expect a read number from file function.
-Happy Calculating!
+![kép](https://user-images.githubusercontent.com/103964666/163893448-1d2d3568-972d-4135-be68-bc2db0073941.png)
